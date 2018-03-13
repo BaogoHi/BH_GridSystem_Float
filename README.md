@@ -13,8 +13,16 @@
 
 ## 分割类型
 
-width>=960px | 960px>width>640px | 640px>width>320px 
-- | :-: | -: 
-col-bg-* | col-md-* | col-sm-* 
-|||
+<table border="1">
+  <tr>
+    <th>width>=960px</th>
+    <th>960px>width>640px</th>
+    <th>640px>width>320px</th>
+  </tr>
+  <tr>
+    <td>col-bg-*</td>
+    <td>col-md-*</td>
+    <td>col-sm-*</td>
+  </tr>
+</table>
 
